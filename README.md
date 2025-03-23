@@ -22,7 +22,7 @@ Follow these steps to set up and run the project locally:
 
     Clone the Repository
 
-git clone https://github.com/your-username/resume-job-recommender.git
+git clone https://github.com/Mjahid-Ansari/AI-Job-Recommendation-System.git
 cd resume-job-recommender
 
 Install Dependencies
