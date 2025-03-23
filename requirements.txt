@@ -1,0 +1,32 @@
+🚀 AI-Powered Resume-Based Job Recommendation System
+
+This project utilizes NLP & Machine Learning to analyze resumes (PDF/TXT) and recommend the most suitable IT job roles. Built with Streamlit, it extracts key skills and matches them with job descriptions using TF-IDF & Cosine Similarity.
+🔹 Features
+
+✅ Upload PDF/TXT resumes
+✅ Matches with 15+ IT job roles
+✅ AI-driven skill extraction & recommendation
+✅ Built with Streamlit & Scikit-Learn
+📂 Files to Include
+
+    app.py – Main Streamlit application
+
+    requirements.txt – List of dependencies
+
+📜 Installation
+
+pip install -r requirements.txt
+streamlit run app.py
+
+📌 Dependencies (requirements.txt)
+
+streamlit
+spacy
+numpy
+pandas
+PyPDF2
+scikit-learn
+
+🚀 Get Started
+
+Clone the repository, install dependencies, and run the Streamlit app to get personalized job recommendations!
